@@ -1,9 +1,17 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageId>Todo.Core</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>ANYWALL1</Authors>
+    <Company>io.natk</Company>
+    <Description>Simple Todo core library (for practice)</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>https://github.com/ANYWALL1/PR3CI-CD</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
