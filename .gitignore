@@ -1,0 +1,20 @@
+## Visual Studio / .NET Core
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build and Test Results
+[Aa]rtifacts/
+TestResults/
+*.trx
+*.coverage
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userprefs
